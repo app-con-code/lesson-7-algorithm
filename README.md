@@ -68,6 +68,6 @@ $$a_k, a_1, ..., a_{k-1}$$
  2 9 5
 ```
 
-[큐](https://www.acmicpc.net/problem/10845)
-[카드2](https://www.acmicpc.net/problem/2164)
-[회전하는 큐](https://www.acmicpc.net/problem/1021)
+[큐](https://www.acmicpc.net/problem/10845)  
+[카드2](https://www.acmicpc.net/problem/2164)  
+[회전하는 큐](https://www.acmicpc.net/problem/1021)  
