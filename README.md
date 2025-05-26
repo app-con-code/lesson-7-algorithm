@@ -6,6 +6,7 @@
 
 ## 기존 큐를 원형 큐로 변경해 보기  
 `CircularQueue.java`  
+[lesson 4: 큐](https://pitch-eel-0ef.notion.site/Lesson-4-1de0711f396d8020b1e7e60ebc103b26?pvs=4)  
 
 ## 카드 문제  
 `Card2Deque.java`  
